@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Zuzanna Radosz</h1>
-<h3 align="center">I am a computer engineer with a passion for gaming</h3>
+<h1 align="center">👋 Hi, I'm Zuzanna Radosz</h1>
+<h3 align="center">IT engineer with a passion for gaming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuzrad&label=Profile%20views&color=0e75b6&style=flat" alt="zuzrad" /> </p>
 
