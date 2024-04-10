@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Zuzanna Radosz</h1>
-<h3 align="center">IT engineer with a passion for gaming</h3>
+<h3 align="center">IT engineer with a passion for programming</h3>
 
 
 
