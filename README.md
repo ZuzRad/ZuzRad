@@ -6,7 +6,7 @@
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,unity,unreal,dotnet,mysql,python,git,kotlin,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,unity,unreal,dotnet,mysql,python,git,kotlin,androidstudio,js,html,css" />
   </a>
 </p>
 <!-- <div align="left">
